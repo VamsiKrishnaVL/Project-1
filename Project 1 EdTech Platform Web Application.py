@@ -5,9 +5,6 @@ Run:
     pip install selenium pytest
     pytest -v guvi_automation_single.py
 
-Note:
-    Replace the placeholder valid login credentials in test_tc6_valid_login
-    and test_tc10_logout with a real GUVI test account if required.
 """
 
 import pytest
